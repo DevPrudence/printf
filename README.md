@@ -10,6 +10,7 @@ This is a group project to create your own `printf` function in the C programmin
 - [Resources](#resources)
 - [Requirements](#requirements)
 - [Compilation](#compilation)
+- [Tasks](#Tasks)
 
 ## Background Context
 
@@ -62,6 +63,7 @@ The code will be compiled using the following command:
 $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
 
 ## Tasks
+
 ### 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
 mandatory
 Write a function that produces output according to a format.
@@ -99,7 +101,6 @@ b: the unsigned int argument is converted to binary
 ### 3. What one has not experienced, one will never understand in print
 #advanced
 Handle the following conversion specifiers:
-
 u
 o
 x
