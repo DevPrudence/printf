@@ -11,6 +11,7 @@ This is a group project to create your own `printf` function in the C programmin
 - [Requirements](#requirements)
 - [Compilation](#compilation)
 - [Tasks](#Tasks)
+- [Contributors](#contributors)
 
 ## Background Context
 
@@ -170,7 +171,11 @@ r : prints the reversed string
 
 ### 14. The flood of print has turned reading into a process of gulping rather than savoring
 #advanced
-Handle the following custom conversion specifier:
+Handle the following custom conversion specifier
+
+## Contributors
+
+### 1. Moses Adegoke @DevPrudence
 
 R: prints the rot13'ed string
 
