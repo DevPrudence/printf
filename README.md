@@ -1,4 +1,4 @@
-# Printf Project in C - Alx group project 
+# Printf Project in C - Alx group project (Solo participant) 
 
 ## Overview
 
